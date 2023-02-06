@@ -1,0 +1,17 @@
+{
+    "mescocktails" : [{
+        "name": "Amor-Amor",
+        "price": 7,
+        "img": "./cocktail2.jpg"
+    },
+     {
+        "name": "Fruit de la Passion",
+        "price": 7,
+        "img": "./cocktail1.jpg"
+    },
+    {
+        "name": "Sex on the beach",
+        "price": 7,
+        "img": "./cocktail3.jpg"
+    }]
+  }
